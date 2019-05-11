@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Petronella (Roné) van Tonder
+A simple demo, by Petronella (Roné) van Tonder, for DMIT-2018
